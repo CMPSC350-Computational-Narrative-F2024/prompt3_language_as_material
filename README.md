@@ -38,5 +38,5 @@ Today we further explore the permissionless "meaningspace" of raw data.
 * Submit 
   * in `/writing` directory, all prompts used -- must try at least three prompts (each modified based on previous output)
   * in `/writing` directory, final generated image
-  * in 'src/' cirectory, modified Python program
+  * in 'src/' directory, modified Python program
   
